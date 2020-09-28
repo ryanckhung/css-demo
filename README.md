@@ -1,2 +1,4 @@
 # css-demo
-NavMenuRowArrow.js shows the animation
+
+### Animation
+NavMenuRowArrow.js
